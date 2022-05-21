@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sha256_via_SymCrypt", "Sha256_via_SymCrypt\Sha256_via_SymCrypt.vcxproj", "{B6B0F76E-1FFA-46C9-87A1-A1F4D4843487}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6B0F76E-1FFA-46C9-87A1-A1F4D4843487}.Debug|x64.ActiveCfg = Debug|x64
+		{B6B0F76E-1FFA-46C9-87A1-A1F4D4843487}.Debug|x64.Build.0 = Debug|x64
+		{B6B0F76E-1FFA-46C9-87A1-A1F4D4843487}.Debug|x86.ActiveCfg = Debug|Win32
+		{B6B0F76E-1FFA-46C9-87A1-A1F4D4843487}.Debug|x86.Build.0 = Debug|Win32
+		{B6B0F76E-1FFA-46C9-87A1-A1F4D4843487}.Release|x64.ActiveCfg = Release|x64
+		{B6B0F76E-1FFA-46C9-87A1-A1F4D4843487}.Release|x64.Build.0 = Release|x64
+		{B6B0F76E-1FFA-46C9-87A1-A1F4D4843487}.Release|x86.ActiveCfg = Release|Win32
+		{B6B0F76E-1FFA-46C9-87A1-A1F4D4843487}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5964DC22-52C2-471D-B3A6-46D8368D6C2B}
+	EndGlobalSection
+EndGlobal
